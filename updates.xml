@@ -6,5 +6,5 @@
 <!--
  ************************************************************ 
 -->
-<update name="Aethera (v1.01)" date="2017/08/21:1430" size="819" description="Conversion of the Aethera campaign" uniqueid="601" filetype="3" platform="any" download="https://github.com/BufferUnderrunOK/aethera-hero-lab/blob/master/aethera.hl?raw=true" website="https://github.com/BufferUnderrunOK/aethera-hero-lab" companyurl="https://github.com/BufferUnderrunOK/aethera-hero-lab" priority="99" major="1" minor="01" patch="" folder="pathfinder" special="PathfinderPack" dynamic=""/>
+<update name="Aethera (v1.01)" date="2017/08/21:1430" size="819" description="Conversion of the Aethera campaign" uniqueid="601" filetype="3" platform="any" download="https://bufferunderrunok.github.io/aethera-hero-lab/aethera.hl" website="https://github.com/BufferUnderrunOK/aethera-hero-lab" companyurl="https://github.com/BufferUnderrunOK/aethera-hero-lab" priority="99" major="1" minor="01" patch="" folder="pathfinder" special="PathfinderPack" dynamic=""/>
 </document>
